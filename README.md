@@ -2,7 +2,7 @@
 
 <img width="893" height="570" alt="image" src="https://github.com/user-attachments/assets/a0d60011-1c09-431f-8d44-e83fd1984c53" />
 
-This tool for Recon & Osint Phone/User/... & WebVuln..
+Automated web reconnaissance and OSINT scanner for phone/username lookup and external vulnerability assessment.
 
 # Installation
 
@@ -22,6 +22,8 @@ Just Download the libraries
 pip install -r requirements.txt
 
 # If the Libraries didn't install just type after any library (--break-system-packages)
+
+Linkedin : https://www.linkedin.com/in/zaid-ak-9a1b71352
 
 
 # About Me
