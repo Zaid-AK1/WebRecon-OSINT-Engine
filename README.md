@@ -2,6 +2,7 @@
 
 <img width="893" height="570" alt="image" src="https://github.com/user-attachments/assets/a0d60011-1c09-431f-8d44-e83fd1984c53" />
 
+
 Automated web reconnaissance and OSINT scanner for phone/username lookup and external vulnerability assessment.
 
 # Installation
@@ -23,11 +24,11 @@ pip install -r requirements.txt
 
 # If the Libraries didn't install just type after any library (--break-system-packages)
 
-Linkedin : https://www.linkedin.com/in/zaid-ak-9a1b71352
-
 
 # About Me
 Welcome To Zaid AK Tools!
 
 Github : https://github.com/Zaid-AK1
+
+Linkedin : https://www.linkedin.com/in/zaid-ak-9a1b71352
 
