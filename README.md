@@ -7,7 +7,7 @@ Automated web reconnaissance and OSINT scanner for phone/username lookup and ext
 
 # Installation
 
-On kali linux :
+On Linux :
 
 Step 1 : git clone https://github.com/Zaid-AK1/WebRecon-Osint.git
 
